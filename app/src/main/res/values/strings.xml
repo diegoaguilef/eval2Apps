@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Eval2Apps</string>
+    <string-array name="courses">
+        <item>Aplicaciones móviles para IoT</item>
+        <item>Taller de diseño y desarrollo de soliciones</item>
+        <item>Programación Backend</item>
+        <item>Ingeniría de software</item>
+        <item>Desarrollo de videojuegos</item>
+        <item>Innovación y emprendimiento I</item>
+    </string-array>
+</resources>

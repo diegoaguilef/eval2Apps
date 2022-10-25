@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9999064604",
+    "project_id": "eval2apps",
+    "storage_bucket": "eval2apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9999064604:android:cbf8e7cdab5dcc991749d9",
+        "android_client_info": {
+          "package_name": "com.diego.eval2apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9999064604-1q0sptljhn82p9479dkpmb47t27eu4bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaqqq9nDJ-Dxal8_BnOYhxfw1JG_KA3DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9999064604-1q0sptljhn82p9479dkpmb47t27eu4bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
